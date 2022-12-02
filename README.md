@@ -1,4 +1,4 @@
-# How to run Project
+# How to run The Project
 
 Open CMD or GitBash in the appropriate directory
 Use the localhost port you want to use, for example localhost:9000
